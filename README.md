@@ -37,7 +37,7 @@
 
 ### 1 分钟上手使用
 
-请打开网站：[https://yuindex.com](https://weh.wehstudy.xyz/)
+请打开网站：[https://weh.wehstudy.xyz](https://weh.wehstudy.xyz/)
 
 然后在网站内依次输入以下命令：
 
