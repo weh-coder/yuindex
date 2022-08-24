@@ -19,7 +19,7 @@
           >
             <template #header>
               <span style="user-select: none; margin-right: 10px">
-                {{ prompt }}
+                {{ prompt }}l
               </span>
               <span>{{ output.text }}</span>
             </template>
@@ -408,7 +408,7 @@ onMounted(() => {
       `Welcome to YuIndex, coolest browser index for geeks!` +
         `<a href="//github.com/weh-coder/yuindex" target='_blank'> GitHub Open Source</a>`
     );
-    terminal.writeTextOutput("<br/>");
+    terminal.writeTextOutput("<br/>please input 'help' to enjoy");
   }
 });
 
